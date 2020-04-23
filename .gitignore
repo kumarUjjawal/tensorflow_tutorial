@@ -3,3 +3,6 @@
 *.tsv
 *.data
 *.png
+*.gzip
+*.gz
+*.ckpt
