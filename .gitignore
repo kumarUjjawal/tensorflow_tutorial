@@ -6,3 +6,6 @@
 *.gzip
 *.gz
 *.ckpt
+*.tar.gz
+cifar-10-batches-py/
+.DS_Store
